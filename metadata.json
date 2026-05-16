@@ -1,0 +1,6 @@
+{
+  "name": "Global OS Blueprint",
+  "description": "Master blueprint and developer handbook for a next-generation AI-native operating system concept.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
